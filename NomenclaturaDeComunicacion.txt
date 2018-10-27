@@ -1,0 +1,28 @@
+Para enviar un dato referente a la temperatura se debe escribir una T (mayuscula) y pegado
+el dato en Grados Celsios con dos decimales, sin espacio alguno.
+Solo acepta valores con dos decimales
+La parte entera debe ser de dos digitos, ni mas ni menos.
+Ejemplo
+	T37.52
+	T40.00
+	T59.70
+	T00.00
+	T01.05
+
+
+Para enviar un dato referente a la humedad se debe escribir una H(mayuscula) y pegado
+el dato de la humedad, este debe ser un porcentajes, con dos decimales, sin espacio alguno
+Solo acepta valores con dos decimales
+La parte entera debe ser de dos digitos, ni mas ni menos.
+Ejemplo
+	H37.52		37.52% de humedad
+	H40.00		40.00% de humedad
+	H59.70		59.70% de humedad
+	H01.04		1.04% de humedad
+
+Para enviar un dato referente a la iluminacion se debe escribir una I(mayuscula) y pegado
+el dato de la Iluminacion,este debe ser un porcentajes, con dos decimales, sin espacio alguno
+Solo acepta valores con dos decimales
+La parte entera debe ser de dos digitos, ni mas ni menos.
+Ejemplo
+	I37.52	
