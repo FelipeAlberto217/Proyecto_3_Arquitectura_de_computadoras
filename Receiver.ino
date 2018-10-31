@@ -2,7 +2,7 @@
 //Instituto Tecnologico de Costa Rica
 // Jacobo De Bruyn Monge  2014079654
 //Jordan
-//Felipe
+//Felipe Solano Sanchez 2015116656
 // Este documento coresponde al receptor
 
 // Importando libreria para el trasmisor y receptor de datos por RF
