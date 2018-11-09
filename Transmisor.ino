@@ -113,7 +113,7 @@ void loop() {
   
   lect_temp=analogRead(temp);                     //Lectura de temperatura
   temp_escala=fmap(lect_temp, 0,445,0.0,2.14);    //Conversion a escala de punto flotante, max_salida debe ser preferiblemente el valor maximo exacto medido de forma experimental
-  temp_real=fmap(temp_escala, 0.0,2.14,temp_min,temp_max);
+  temp_real=fmap(temp_escala, 0.0,2.14,temp_min,temp_max);//Conversión a valores reales
   t.concat(temp_real);
   Serial.print("Temperatura: ");
   Serial.println(t);
